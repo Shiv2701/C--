@@ -6,3 +6,4 @@ int main(){
     std::cout<<"HelloWorld"; // we can then use (cout<<"Helloworld";) to print 
     return 0;
 }
+// this is insertion operator 
